@@ -1,0 +1,9 @@
+{
+    "users": [
+        { "username": "rasyagelo", "password": "rasyagelo" },
+        { "username": "rasyagelo2", "password": "rasyagelo2" }
+    ],
+    "keys": [
+        { "key": "key123", "numbers": ["6285727264161", "6289876543210"] }
+    ]
+}
