@@ -1,9 +1,15 @@
 {
-    "users": [
-        { "username": "rasyagelo", "password": "rasyagelo" },
-        { "username": "rasyagelo2", "password": "rasyagelo2" }
-    ],
-    "keys": [
-        { "key": "rasyagelo", "numbers": ["6285727264161", "-"] }
-    ]
+  "keys": [
+    {
+      "key": "rasyagelo",
+      "numbers": [
+        "6285727264161",
+        "6281532322987",
+        "62882022905649",
+        "6285811390863",
+        "6285147044485",
+        "-"
+      ]
+    }
+  ]
 }
