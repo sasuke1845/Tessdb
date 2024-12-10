@@ -6,13 +6,6 @@
       "pin": "112233",
       "username": "flixx",
       "password": "flixx"
-    },
-    {
-      "key": "112233",
-      "numbers": ["6282339978548"],
-      "pin": "223344",
-      "username": "ikyy",
-      "password": "ikyyoffc"
     }
   ]
 }
