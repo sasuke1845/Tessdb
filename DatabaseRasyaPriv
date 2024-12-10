@@ -1,11 +1,11 @@
 {
   "keys": [
     {
-      "key": "rasyaa",
-      "numbers": ["6285727264161"],
-      "pin": "150209",
-      "username": "rasyaa",
-      "password": "rasyaa"
+      "key": "12345",
+      "numbers": ["6285187051862"],
+      "pin": "112233",
+      "username": "flixx",
+      "password": "flixx"
     },
     {
       "key": "112233",
@@ -13,34 +13,6 @@
       "pin": "223344",
       "username": "ikyy",
       "password": "ikyyoffc"
-    },
-    {
-      "key": "xyrostvn",
-      "numbers": ["6285788055721", "265882390190"],
-      "pin": "060309",
-      "username": "XyroNesia",
-      "password": "@Xyr0host"
-    },
-    {
-      "key": "FallTpX",
-      "numbers": ["62877533994809", "6287753399480"],
-      "pin": "147852",
-      "username": "AzfalGntng",
-      "password": "Yodha412012"
-    },
-    {
-      "key": "qpy1",
-      "numbers": ["6287883051309", "6285212311072"],
-      "pin": "159456",
-      "username": "gisna",
-      "password": "gisna123"
-    },
-    {
-      "key": "rasyaa2",
-      "numbers": ["6285974127687"],
-      "pin": "150209",
-      "username": "rasyaa2",
-      "password": "rasyaa2"
     }
   ]
 }
