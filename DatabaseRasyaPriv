@@ -1,11 +1,5 @@
 {
   "keys": [
-    {
-      "key": "12345",
-      "numbers": ["628386045434"],
-      "pin": "112233",
-      "username": "flixx",
-      "password": "flixx"
-    }
+    { "key": "12345" }
   ]
 }
